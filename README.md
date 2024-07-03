@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malong maker</h1>
 <h3 align="center">A passionate Programmer from Africa</h3>
 
-- 🔭 I’m currently working on **MechTech mobile development**
+- 🔭 I’m currently working on **MechDev mobile development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
